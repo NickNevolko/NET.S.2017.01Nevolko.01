@@ -13,6 +13,7 @@ namespace ConsoleAppTest
         {
             var rd = new Random();
 
+
             #region sort_even_arr
             int[] arr = new int[100];
             for (int i = 0; i < arr.Length; ++i)
