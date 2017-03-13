@@ -6,12 +6,25 @@ using System.Threading.Tasks;
 
 namespace MergeSort
 {
+    /// <summary>
+    /// static class which contains a MergeSort method
+    /// </summary>
     public class MergeSortClass
     {
+        /// <summary>
+        /// Method which sorts an array,
+        /// has a one parameter
+        /// </summary>
+        /// <param name="array">one parameter is array of ints. </param>
+        /// <returns>returns a new sorted array of integers</returns>
         public static int[] Sorting(int[] array)
         {
             return MergeSort(array);
         }
+
+        /// <summary>
+        /// Split and calls a Merge method
+        /// </summary>
         private static int[] MergeSort(int[] arr)
         {
             if (arr == null)
@@ -25,6 +38,9 @@ namespace MergeSort
             return Merge(MergeSort(arr.Take(middle).ToArray()), MergeSort(arr.Skip(middle).ToArray()));
         }
 
+        /// <summary>
+        /// Merges arrays to new one result array
+        /// </summary>
         private static int[] Merge(int[] array1, int[] array2)
         {
             int a = 0;
