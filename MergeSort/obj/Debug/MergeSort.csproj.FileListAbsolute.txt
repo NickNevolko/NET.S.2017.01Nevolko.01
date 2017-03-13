@@ -1,0 +1,5 @@
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\bin\Debug\MergeSort.dll
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\bin\Debug\MergeSort.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\obj\Debug\MergeSort.dll
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\obj\Debug\MergeSort.pdb

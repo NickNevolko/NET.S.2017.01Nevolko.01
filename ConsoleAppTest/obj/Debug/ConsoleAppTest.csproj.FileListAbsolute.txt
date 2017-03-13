@@ -1,0 +1,11 @@
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\MergeSort.dll
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\bin\Debug\MergeSort.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
