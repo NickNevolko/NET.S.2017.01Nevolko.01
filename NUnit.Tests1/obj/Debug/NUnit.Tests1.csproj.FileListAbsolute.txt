@@ -1,0 +1,9 @@
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\obj\Debug\NUnit.Tests1.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\bin\Debug\MergeSort.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\bin\Debug\MergeSort.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
