@@ -3,8 +3,17 @@ c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\bi
 c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
 c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\obj\Debug\MergeSort.dll
 c:\users\nikol\documents\visual studio 2015\Projects\ConsoleAppTest\MergeSort\obj\Debug\MergeSort.pdb
+<<<<<<< HEAD
 C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\MergeSort\bin\Debug\MergeSort.dll
 C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\MergeSort\bin\Debug\MergeSort.pdb
 C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
 C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\MergeSort\obj\Debug\MergeSort.dll
 C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01Nevolko.01\MergeSort\obj\Debug\MergeSort.pdb
+=======
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01\MergeSort\bin\Debug\MergeSort.XML
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01\MergeSort\bin\Debug\MergeSort.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01\MergeSort\obj\Debug\MergeSort.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NET.S.2017.01\MergeSort\obj\Debug\MergeSort.pdb
+>>>>>>> d49ab09401330f2e4d58ec8bce5b962485f6399f

@@ -9,7 +9,11 @@ namespace Task
     /// <summary>
     /// static class which contains a MergeSort method
     /// </summary>
+<<<<<<< HEAD:MergeSort/Task1.cs
     public class Task1
+=======
+    public class MergeSortClass
+>>>>>>> d49ab09401330f2e4d58ec8bce5b962485f6399f:MergeSort/MergeSortClass.cs
     {
         /// <summary>
         /// Method which sorts an array,
@@ -17,7 +21,11 @@ namespace Task
         /// </summary>
         /// <param name="array">one parameter is array of ints. </param>
         /// <returns>returns a new sorted array of integers</returns>
+<<<<<<< HEAD:MergeSort/Task1.cs
         public static void Sorting(int[] array)
+=======
+        public static int[] Sorting(int[] array)
+>>>>>>> d49ab09401330f2e4d58ec8bce5b962485f6399f:MergeSort/MergeSortClass.cs
         {
             int [] sorted_array = MergeSort(array);
             Array.Copy(sorted_array, array, array.Length);

@@ -21,7 +21,11 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD:MergeSort/Task1.csproj
     <Prefer32Bit>false</Prefer32Bit>
+=======
+    <DocumentationFile>bin\Debug\MergeSort.XML</DocumentationFile>
+>>>>>>> d49ab09401330f2e4d58ec8bce5b962485f6399f:MergeSort/MergeSort.csproj
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>

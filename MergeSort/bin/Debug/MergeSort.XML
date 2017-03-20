@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MergeSort</name>
+    </assembly>
+    <members>
+        <member name="T:MergeSort.MergeSortClass">
+            <summary>
+            static class which contains a MergeSort method
+            </summary>
+        </member>
+        <member name="M:MergeSort.MergeSortClass.Sorting(System.Int32[])">
+            <summary>
+            Method which sorts an array,
+            has a one parameter
+            </summary>
+            <param name="array">one parameter is array of ints. </param>
+            <returns>returns a new sorted array of integers</returns>
+        </member>
+        <member name="M:MergeSort.MergeSortClass.MergeSort(System.Int32[])">
+            <summary>
+            Split and calls a Merge method
+            </summary>
+        </member>
+        <member name="M:MergeSort.MergeSortClass.Merge(System.Int32[],System.Int32[])">
+            <summary>
+            Merges arrays to new one result array
+            </summary>
+        </member>
+    </members>
+</doc>
